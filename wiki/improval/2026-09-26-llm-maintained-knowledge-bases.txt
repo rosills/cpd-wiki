@@ -1,0 +1,10 @@
+Title: LLM-maintained knowledge bases for learning and CPD
+Date: 26 September 2026
+Activity type: Self-directed learning (reading and hands-on set-up)
+Time spent: 2 hours
+
+What I learnt:
+I read Andrej Karpathy's "LLM Wiki" pattern and Google's Open Knowledge Format, prompted by a discussion in the AI in the NHS group. Instead of an AI searching raw documents afresh for every question, it reads each new source once and integrates it into a linked set of notes that it keeps up to date. The main risk is that AI-written summaries can become confidently wrong and later be treated as if they were sources, so sources must be kept separate from the AI's synthesis and anything clinically important checked against the original.
+
+What I will do differently:
+I have set up a system to capture my learning as I go (photos, voice notes, web clippings) into a single inbox, with a check for any patient-identifiable information before anything is processed. As an appraiser, when appraisees bring AI-assisted learning logs, I will keep asking what they themselves learnt and changed in practice.
