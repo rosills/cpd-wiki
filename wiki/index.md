@@ -3,7 +3,7 @@ type: Index
 title: Clinical Knowledge & CPD Wiki — Index
 description: Catalogue of every page in the CPD wiki.
 tags: [index]
-timestamp: 2026-10-27T17:50:00+00:00
+timestamp: 2026-10-27T18:05:00+00:00
 status: draft
 share: yes
 ---
@@ -31,6 +31,8 @@ Rules: [CLAUDE.md](../CLAUDE.md). History: [log.md](log.md).
 | [Hazlett Health](sources/hazlett-health-website.md) | UK private cannabis-medicine practice | draft | yes |
 | [B12D symptoms checker](sources/b12d-symptoms-checker.md) | Signs-and-symptoms checklist for B12 deficiency | draft | yes |
 | [Wei & Marco 2025 — fermented cabbage metabolome](sources/wei-marco-2025-fermented-cabbage-metabolome.md) | Sauerkraut filtrates protect Caco-2 barrier in vitro | draft | yes |
+| [Nielsen 2018 — sauerkraut in IBS](sources/nielsen-2018-sauerkraut-ibs-pilot.md) | Pilot RCT: pasteurised and live both improved IBS-SSS | draft | yes |
+| [Schropp 2025 — sauerkraut and microbiota](sources/schropp-2025-sauerkraut-microbiota-crossover.md) | Crossover RCT in healthy adults: microbiome largely resilient | draft | yes |
 
 ## CPD entries
 | Page | Date | Hours | Share |
@@ -39,6 +41,7 @@ Rules: [CLAUDE.md](../CLAUDE.md). History: [log.md](log.md).
 | [Medical cannabis in UK private practice](cpd/2026-09-27-medical-cannabis-private-practice.md) | 2026-09-27 | 0.5 (to confirm) | no |
 | [B12 deficiency — symptoms checker](cpd/2026-09-27-b12-deficiency-symptoms-checker.md) | 2026-09-27 | 0.5 (to confirm) | no |
 | [Fermented cabbage metabolites and gut barrier](cpd/2026-10-27-fermented-cabbage-gut-barrier.md) | 2026-10-27 | 1.0 (to confirm) | no |
+| [Sauerkraut in humans — IBS and microbiota trials](cpd/2026-10-27-sauerkraut-human-trials.md) | 2026-10-27 | 1.0 (to confirm) | no |
 
 ## People
 | Page | Summary | Share |

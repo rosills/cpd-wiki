@@ -3,10 +3,10 @@ type: Topic
 title: Fermented foods and the intestinal barrier
 description: What is known about fermented foods (e.g. sauerkraut) and gut epithelial barrier function — mechanisms, evidence level and practical points.
 tags: [fermented-foods, gut-barrier, microbiome, nutrition, gastroenterology]
-timestamp: 2026-10-27T17:50:00+00:00
+timestamp: 2026-10-27T18:05:00+00:00
 status: draft
 share: yes
-sources: [../sources/wei-marco-2025-fermented-cabbage-metabolome.md]
+sources: [../sources/wei-marco-2025-fermented-cabbage-metabolome.md, ../sources/nielsen-2018-sauerkraut-ibs-pilot.md, ../sources/schropp-2025-sauerkraut-microbiota-crossover.md]
 ---
 
 # Fermented foods and the intestinal barrier
@@ -25,14 +25,19 @@ Fermented vegetables such as sauerkraut are widely promoted for gut health, but 
 
 ## Evidence level
 
-- **In vitro:** sauerkraut filtrates prevented cytokine-induced permeability in Caco-2 monolayers; raw cabbage did not ([Wei & Marco 2025](../sources/wei-marco-2025-fermented-cabbage-metabolome.md)).
-- **Human:** limited — small pilot and crossover studies, mostly kimchi; one pilot in IBS found benefit from both pasteurised and unpasteurised sauerkraut (cited in Wei & Marco 2025; not yet read here).
-- No basis yet for a recommended "dose" of fermented vegetables.
+| Level | Study | Population | Main finding | Key limitation |
+|---|---|---|---|---|
+| In vitro | [Wei & Marco 2025](../sources/wei-marco-2025-fermented-cabbage-metabolome.md) | Caco-2 monolayers | Sauerkraut filtrates (not raw cabbage) prevented cytokine-induced permeability | Cell line only; no digestion |
+| Pilot RCT | [Nielsen 2018](../sources/nielsen-2018-sauerkraut-ibs-pilot.md) | 34 adults with IBS | IBS-SSS fell with both pasteurised and live sauerkraut over 6 weeks; no difference between them | No non-sauerkraut control; underpowered |
+| Crossover RCT | [Schropp 2025](../sources/schropp-2025-sauerkraut-microbiota-crossover.md) | 87 healthy adults | 100 g/day for 4 weeks: no change in microbiome diversity; a few species changed; pasteurised raised serum SCFAs | Products differed beyond pasteurisation; no control arm; no symptom or barrier outcomes |
+
+**Synthesis (agent):** across all three, effects don't seem to depend on live bacteria — pasteurised sauerkraut performed at least as well in both human studies — which is consistent with the metabolite (and fibre) hypothesis. But no human study has measured barrier function, neither trial had a non-sauerkraut control, and the healthy microbiome changed little over a month. Current evidence supports sauerkraut as a reasonable, low-risk dietary option for interested patients (IBS included), not as a treatment for "leaky gut". There is no evidence-based dose; the trials used up to 100 g/day.
 
 ## Practical points for primary care
 
-- Shop-bought sauerkraut varies widely in live-bacteria content; "live" labelling may matter less than previously assumed if metabolites drive the effect — unproven.
+- Shop-bought sauerkraut varies widely in live-bacteria content; both human trials suggest "live" labelling may matter less than assumed — tentative, given their limitations.
+- Tolerability was good at 100 g/day in healthy adults ([Schropp 2025](../sources/schropp-2025-sauerkraut-microbiota-crossover.md)); some people with IBS may react to fermentable carbohydrates or amines — start small.
 - Fermented cabbage can contain **tyramine** and other biogenic amines ([Wei & Marco 2025](../sources/wei-marco-2025-fermented-cabbage-metabolome.md)) — relevant to patients on MAO inhibitors (including linezolid) and possibly to histamine/amine-sensitive or migraine-prone patients.
 - Typical sauerkraut is ~2–3% salt by weight ([Wei & Marco 2025](../sources/wei-marco-2025-fermented-cabbage-metabolome.md)) — relevant to sodium restriction.
 
-> **Open question:** Read the human trials (Nielsen 2018, IBS; Schropp 2025, microbiota) and the ISAPP consensus statement on fermented foods (Marco et al., *Nat Rev Gastroenterol Hepatol* 2021) to strengthen this page.
+> **Open question:** Read the full text of Nielsen 2018 (dose; ideally a fuller look at methods) and the ISAPP consensus statement on fermented foods (Marco et al., *Nat Rev Gastroenterol Hepatol* 2021). Look for any human study measuring barrier function after fermented vegetables, and for kimchi RCTs (scoping review: Song et al., *J Ethn Food* 2023).

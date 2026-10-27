@@ -33,3 +33,10 @@ share: no
 - link sent by Richard in chat (doi 10.1128/aem.02234-24, open access, full text read); no patient-identifiable content
 - created: sources/wei-marco-2025-fermented-cabbage-metabolome.md, topics/fermented-foods-and-gut-barrier.md, people/maria-marco.md, cpd/2026-10-27-fermented-cabbage-gut-barrier.md, improval/2026-10-27-fermented-cabbage-gut-barrier.txt
 - open: human trials (Nielsen 2018; Schropp 2025) and ISAPP 2021 consensus not yet read; CPD hours, learning and impact provisional
+
+## [2026-10-27] ingest | Nielsen 2018 (sauerkraut in IBS) and Schropp 2025 (sauerkraut and microbiota)
+- requested by Richard in chat as follow-up to Wei & Marco 2025; no patient-identifiable content
+- Nielsen 2018: abstract only (full text not accessible); Schropp 2025: full text read (open access)
+- created: sources/nielsen-2018-sauerkraut-ibs-pilot.md, sources/schropp-2025-sauerkraut-microbiota-crossover.md, cpd/2026-10-27-sauerkraut-human-trials.md, improval/2026-10-27-sauerkraut-human-trials.txt
+- updated: topics/fermented-foods-and-gut-barrier.md (evidence table and synthesis, practical points), sources/wei-marco-2025-fermented-cabbage-metabolome.md (links to the trials)
+- open: Nielsen full text (daily dose); ISAPP 2021 consensus; kimchi RCTs; CPD hours, learning and impact provisional
